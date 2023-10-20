@@ -24,36 +24,9 @@
     </thead>
     <tbody>
       <tr>
-        <th scope="row">1</th>
-        <td>Mark</td>
-        <td>Otto</td>
-        <td>
-            <a href="#" class="btn btn-warning">
-                <i class="fas fa-edit"></i> Editar
-            </a>
-            <!-- Botón de Borrar con ícono -->
-            <a href="#" class="btn btn-danger">
-                <i class="fas fa-trash-alt"></i> Borrar
-            </a>
-        </td>
-      </tr>
-      <tr>
-        <th scope="row">2</th>
-        <td>Jacob</td>
-        <td>Thornton</td>
-        <td>
-            <a href="#" class="btn btn-warning">
-                <i class="fas fa-edit"></i> Editar
-            </a>
-            <!-- Botón de Borrar con ícono -->
-            <a href="#" class="btn btn-danger">
-                <i class="fas fa-trash-alt"></i> Borrar
-            </a>
-        </td>
-      </tr>
-      <tr>
-        <th scope="row">3</th>
-        <td colspan="2">Larry the Bird</td>
+        <th scope="row"></th>
+        <td></td>
+        <td></td>
         <td>
             <a href="#" class="btn btn-warning">
                 <i class="fas fa-edit"></i> Editar
